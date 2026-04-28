@@ -99,7 +99,7 @@ qualifications for job seeking individuals across all fields.
 
 | Field | Type | Description | Example |
 | :--- | :--- | :--- | :--- |
-| `order` | List | Defines the visual sequence of sections in the generated resume. | `[education, technical, projects, extracurriculars, work]` |
+| `order` | List | Defines the visual sequence of sections in the generated resume. | `[education, technical_skills, projects, extracurriculars, work]` |
 | `author` | String | The full name of the resume owner. | `John Doe` |
 | `contact` | Object | Dictionary of contact methods and professional links. | See [Contact Object](#contact-object) |
 | `education` | Object | Educational history and academic achievements. | See [Education Object](#education-object) |
