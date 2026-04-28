@@ -1,0 +1,102 @@
+order: [education, work, projects, technical_skills]
+author: George Washington
+contact:
+  phone: 555-1776-1789
+  email: g.washington@mtvernon.org
+  location: Mount Vernon, VA
+  website: www.mountvernon.org/
+
+education:
+  schools:
+    - university: Self-Educated / Private Tutors
+      location: Westmoreland County, VA
+      degrees:
+        - major: Surveyor's License, College of William & Mary
+          gpa: 4.0/4.0
+          graduation_date: "1749"
+  coursework:
+    - Advanced Trigonometry
+    - Land Surveying
+    - Military Tactics
+    - Agricultural Science
+    - Political Philosophy
+  awards:
+    - Congressional Gold Medal (First Recipient)
+    - Thanks of Congress
+
+technical_skills:
+  programming_languages: [English, French (Reading)]
+  tools: [Theodolite, Gunter's Chain, Compass, Flintlock Musket, Sabre]
+  skills: 
+    - Strategic Leadership
+    - Crisis Management
+    - Diplomacy
+    - Cartography
+    - Large-scale Logistics
+  libraries: [Federalist Papers, Rules of Civility & Decent Behaviour]
+
+projects:
+  - name: Mount Vernon Agricultural Optimization
+    link: https://www.mountvernon.org/agriculture
+    time_period: 1754 - 1799
+    description: Implementation of innovative crop rotation and fertilization techniques.
+    bullets:
+      - Pivoted plantation from tobacco-dominant to wheat-based economy to improve soil health and profitability.
+      - Designed and constructed a unique 16-sided treading barn to increase efficiency in wheat threshing.
+      - Integrated vertical operations including a gristmill and a high-capacity distillery.
+  - name: Crossing of the Delaware
+    link: https://www.history.com/delaware-crossing
+    time_period: December 1776
+    bullets:
+      - Executed a high-risk nocturnal amphibious operation under extreme weather conditions.
+      - Coordinated synchronized movements of three separate units to achieve tactical surprise at Trenton.
+      - Boosted continental morale significantly during a critical operational nadir.
+
+work:
+  - company: United States of America
+    title: President
+    location: New York / Philadelphia
+    time_period: April 1789 - March 1797
+    bullets:
+      - Established executive precedents including the Cabinet system and the two-term tradition.
+      - Oversaw the federal assumption of state debts and the creation of a national bank.
+      - Maintained national neutrality during the French Revolutionary Wars via the Proclamation of Neutrality.
+  - company: Continental Army
+    title: Commander-in-Chief
+    location: Various
+    time_period: June 1775 - December 1783
+    bullets:
+      - Managed a multi-year war of attrition against a globally superior military force.
+      - Maintained army cohesion through extreme resource scarcity and logistical failures at Valley Forge.
+      - Secured a decisive strategic victory at Yorktown through effective coalition warfare with French allies.
+  - company: Virginia Regiment
+    title: Colonel
+    location: Ohio Valley
+    time_period: 1754 - 1758
+    bullets:
+      - Led colonial forces during the French and Indian War, gaining expertise in frontier warfare.
+      - Survived the Braddock Expedition and successfully organized the subsequent retreat of remaining forces.
+  - company: Virginia House of Burgesses
+    title: Representative
+    location: Williamsburg, VA
+    time_period: 1758 - 1775
+    bullets:
+      - Represented Frederick County and later Fairfax County in the first democratically elected legislative body in British North America.
+      - Drafted and supported various resolutions opposing British tax policies, including the Fairfax Resolves.
+      - Developed expertise in legislative procedure, committee leadership, and consensus-building among colonial elites.
+  - company: Forbes Expedition
+    title: Brigadier General (Brevet)
+    location: Fort Duquesne, PA
+    time_period: 1758 - 1758
+    bullets:
+      - Commanded the Virginia Regiment during the successful capture of Fort Duquesne, a strategic turning point in the French and Indian War.
+      - Advised General John Forbes on frontier warfare tactics and provided critical intelligence on terrain and indigenous alliances.
+      - Managed logistics and road construction through the Appalachian wilderness to facilitate heavy artillery movement.
+  - company: Culpeper County
+    title: County Surveyor
+    location: Culpeper, VA
+    time_period: 1749 - 1750
+    bullets:
+      - Appointed as the official surveyor for Culpeper County at age 17, conducting professional land boundary assessments.
+      - Produced highly accurate cartographic maps used for legal property deeds and colonial expansion records.
+      - Utilized theodolites and Gunter's chains to measure over 60,000 acres of unexplored wilderness during tenure.

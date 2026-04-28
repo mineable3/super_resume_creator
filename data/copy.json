@@ -1,0 +1,142 @@
+{
+  "order": [
+    "education",
+    "projects",
+    "work",
+    "extracurriculars",
+    "technical_skills"
+  ],
+  "author": "John Doe",
+  "contact": {
+    "phone": "(999) 999-9999",
+    "email": "j.doe@university.edu",
+    "location": "Smallville, USA",
+    "linkedIn": "linkedin.com/in",
+    "github": "github.com"
+  },
+  "education": {
+    "schools": [
+      {
+        "university": "Big Town University",
+        "location": "Big Town, USA",
+        "degrees": [
+          {
+            "major": "Bachelor of Science in Computer Science",
+            "gpa": "4.00/4.00",
+            "graduation_date": "May 2025"
+          }
+        ]
+      }
+    ],
+    "coursework": [
+      "Object-Oriented Design",
+      "Algorithms and Data Structures",
+      "Discrete Structures",
+      "Computer Systems",
+      "Linear Algebra"
+    ],
+    "awards": [
+      "Dean's List (All Semesters)",
+      "University Merit Scholarship"
+    ]
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "Java",
+      "Python",
+      "C",
+      "JavaScript",
+      "SQL"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "Linux",
+      "VS Code",
+      "IntelliJ"
+    ],
+    "skills": [
+      "Agile Development",
+      "Unit Testing",
+      "REST APIs",
+      "Technical Writing"
+    ],
+    "libraries": [
+      "JUnit",
+      "React",
+      "Flask",
+      "NumPy"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Campus Navigator",
+      "time_period": "September 2025 - December 2025",
+      "description": "A graph-based pathfinding application for university buildings.",
+      "bullets": [
+        "Implemented Dijkstra's algorithm in Java to calculate the shortest walking path between 50+ campus landmarks.",
+        "Developed a responsive frontend using React that reduced navigation time for new students by 15%.",
+        "Engineered a custom parser to convert static building maps into a searchable adjacency list format."
+      ]
+    },
+    {
+      "name": "Smart Inventory Tracker",
+      "time_period": "June 2025 - August 2025",
+      "description": "A RESTful API for managing personal household inventory and expiration alerts.",
+      "bullets": [
+        "Built the backend using Python and Flask with a PostgreSQL database for persistent storage.",
+        "Integrated a third-party barcode API to automate data entry for over 2,000 unique consumer products.",
+        "Deployed the application using Docker containers to ensure environment consistency across development and production."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Tech Start Solutions",
+      "title": "Software Engineering Intern",
+      "location": "Silicon Valley",
+      "time_period": "May 2025 - August 2025",
+      "bullets": [
+        "Refactored legacy PHP code into modular Java services, improving system maintainability and reducing technical debt.",
+        "Automated weekly regression testing using Python scripts, saving the engineering team 5 hours of manual work per sprint.",
+        "Participated in daily stand-ups and code reviews for a cloud-based dashboard utilized by 10k+ monthly active users.",
+        "Optimized SQL queries for the analytics engine, resulting in a 20% reduction in API response latency during peak traffic.",
+        "Documented internal API endpoints using Swagger/OpenAPI to streamline onboarding for future engineering cohorts."
+      ]
+    },
+    {
+      "company": "University IT",
+      "title": "Student Technical Assistant",
+      "location": "Big Town",
+      "time_period": "September 2024 - April 2025",
+      "bullets": [
+        "Provided technical hardware and software support for 500+ faculty and staff members.",
+        "Resolved network connectivity issues and performed system diagnostic checks on Linux-based lab machines.",
+        "Spearheaded a project to digitize the inventory checkout system, replacing a paper-based log with a centralized internal database.",
+        "Conducted training sessions for new student hires on university security protocols and hardware maintenance best practices."
+      ]
+    }
+  ],
+  "extracurriculars": [
+    {
+      "name": "Generic Hacking Society",
+      "time_period": "September 2024 - Present",
+      "bullets": [
+        "Led weekly workshops on cybersecurity basics and Capture The Flag (CTF) strategies for 30+ undergraduate members.",
+        "Coordinated the logistics for the annual 24-hour campus hackathon, securing $2,000 in local corporate sponsorships.",
+        "Developed a vulnerable web application \"playground\" for members to practice SQL injection and XSS mitigation in a safe environment.",
+        "Competed in the Big Hacking competition, ranking in the top 15% of participating university teams."
+      ]
+    },
+    {
+      "name": "Code for Community",
+      "time_period": "January 2025 - Present",
+      "bullets": [
+        "Volunteer as a junior developer building pro-bono web applications for local non-profit organizations.",
+        "Optimized a donation tracking database that increased query performance by 40% for a regional food bank.",
+        "Implemented an automated email notification system using SendGrid to help non-profits manage volunteer sign-ups.",
+        "Mentored three first-year students on Git version control and collaborative development workflows during the spring sprint."
+      ]
+    }
+  ]
+}
